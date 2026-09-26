@@ -22,55 +22,33 @@ I’m a data scientist focused on turning complex healthcare and operational dat
 
 ### ⚙️ Backend & Data Science
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sklearn,pytorch,anaconda" />
-</p>
+![Backend and data science tools](https://simpleicons.dev/icons?icons=python,r,pandas,scikitlearn&theme=dark)
 
 ### 🗄️ Databases & Data Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
-</p>
+![Databases and data platforms](https://simpleicons.dev/icons?icons=postgresql,mysql,sqlite,microsoftsqlserver,influxdb&theme=dark)
 
-### 📊 Business Intelligence & Statistical Analysis
+### 📊 BI & Statistical Analysis
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Amazon%20QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon QuickSight" />
-  <img src="https://img.shields.io/badge/SAS-1F65B7?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" />
-  <img src="https://img.shields.io/badge/IBM%20SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SPSS" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-</p>
+![Business intelligence tools](https://simpleicons.dev/icons?icons=tableau,powerbi,microsoftexcel&theme=dark)
+
+**Also:** SAS · IBM SPSS · Amazon QuickSight
 
 ### ☁️ Cloud & Data Engineering
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-  <img src="https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon SageMaker" />
-  <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Glue" />
-</p>
+![Cloud tools](https://simpleicons.dev/icons?icons=amazonaws&theme=dark)
+
+**AWS services:** Athena · SageMaker · Glue
 
 ### 🛠️ DevOps & Engineering Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-</p>
+![Engineering tools](https://simpleicons.dev/icons?icons=git,github,githubactions,visualstudiocode,jupyter,grafana&theme=dark)
 
 ### ✨ AI-Assisted Workflows
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Windsurf-1E1E2E?style=for-the-badge&logo=windsurf&logoColor=white" alt="Windsurf" />
-</p>
+![AI tools](https://simpleicons.dev/icons?icons=openai,claude,githubcopilot,windsurf&theme=dark)
 
+**AI tools:** ChatGPT · Claude · GitHub Copilot · Windsurf
 ---
 
 ## ✍️ Blog Posts
