@@ -18,43 +18,64 @@ I’m a data scientist focused on turning complex healthcare and operational dat
 - 💬 Ask me about data quality, clinical analytics, monitoring data, or model validation
 
 ---
+## 🧰 Tech Stack & Tools
 
-## 🧰 Tech Stack
+### ⚙️ Backend & Data Science
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=r" alt="R" height="45" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="45" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="45" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" height="45" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,r,sklearn,pytorch,anaconda" />
 </p>
 
-**Analytics & data tools:** SQL Server · PostgreSQL · Athena · PySpark · Jupyter · SageMaker · Power BI · QuickSight · Grafana · InfluxDB
+### 🗄️ Databases & Data Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
+</p>
+
+### 📊 Business Intelligence & Statistical Analysis
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Amazon%20QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon QuickSight" />
+  <img src="https://img.shields.io/badge/SAS-1F65B7?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" />
+  <img src="https://img.shields.io/badge/IBM%20SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SPSS" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+</p>
+
+### ☁️ Cloud & Data Engineering
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon SageMaker" />
+  <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Glue" />
+</p>
+
+### 🛠️ DevOps & Engineering Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+</p>
+
+### ✨ AI-Assisted Workflows
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Windsurf-1E1E2E?style=for-the-badge&logo=windsurf&logoColor=white" alt="Windsurf" />
+</p>
 
 ---
 
 ## ✍️ Blog Posts
 
-- [Making the Complex Simple with a Data Analytics Solution for Investigating Real-Time Medical Device Data* (Part 1 of 2)](https://capsuletech.com/blog/making-the-complex-simple-with-a-data-analytics-solution-for-investigating-real-time-medical-device-data-part-1-of-2)
+- [Making the Complex Simple with a Data Analytics Solution for Investigating Real-Time Medical Device Data (Part 1 of 2)](https://capsuletech.com/blog/making-the-complex-simple-with-a-data-analytics-solution-for-investigating-real-time-medical-device-data-part-1-of-2)
 - [Making the Complex Simple with a Data Analytics Solution for Investigating Real-Time Medical Device Data (Part 2 of 2)](https://capsuletech.com/blog/making-the-complex-simple-with-a-data-analytics-solution-for-investigating-real-time-medical-device-data-part-2-of-2)
 - [Observations of High-pressure and Rapid Shallow Breathing in Mechanically Ventilated COVID-19 Patients: An Interim Assessment](https://capsuletech.com/blog/observations-of-high-pressure-and-rapid-shallow-breathing-in-mechanically-ventilated-covid-19-patients-an-interim-assessment)
 - [Smart Alert: A Harbinger of Adverse Events in Critical Care Settings](https://capsuletech.com/blog/smart-alert-a-harbinger-of-adverse-events-in-critical-care-settings)
