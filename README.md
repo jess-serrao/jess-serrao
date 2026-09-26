@@ -73,6 +73,7 @@ I’m a data scientist focused on turning complex healthcare and operational dat
 - [Making the Complex Simple with a Data Analytics Solution for Investigating Real-Time Medical Device Data (Part 2 of 2)](https://capsuletech.com/blog/making-the-complex-simple-with-a-data-analytics-solution-for-investigating-real-time-medical-device-data-part-2-of-2)
 - [Observations of High-pressure and Rapid Shallow Breathing in Mechanically Ventilated COVID-19 Patients: An Interim Assessment](https://capsuletech.com/blog/observations-of-high-pressure-and-rapid-shallow-breathing-in-mechanically-ventilated-covid-19-patients-an-interim-assessment)
 - [Smart Alert: A Harbinger of Adverse Events in Critical Care Settings](https://capsuletech.com/blog/smart-alert-a-harbinger-of-adverse-events-in-critical-care-settings)
+- [From Reactive to Proactive Care](https://capsuletech.com/blog/from-reactive-to-proactive-care)
 
 <!--
 **jess-serrao/jess-serrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
