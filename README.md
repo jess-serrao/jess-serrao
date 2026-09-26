@@ -13,7 +13,6 @@ I’m a data scientist focused on turning complex healthcare and operational dat
 
 - 🔭 I work across **clinical monitoring of medical devices, time-series data, and predictive modeling**
 - 📊 I enjoy translating messy data into analyses, visualizations, and practical tools
-- 🧠 My core strengths are **Python, SQL, Excel, and data storytelling**
 - 🌱 I’m currently expanding my public portfolio with reproducible end-to-end projects
 - 💬 Ask me about data quality, clinical analytics, monitoring data, or model validation
 
@@ -32,7 +31,6 @@ I’m a data scientist focused on turning complex healthcare and operational dat
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
 ### 📊 BI & Statistical Analysis
