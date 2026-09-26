@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi, I’m Jessica 👋</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Healthcare+Analytics;Turning+complex+data+into+clear+decisions"
+    alt="Animated introduction"
+  />
+</p>
 
 <!--
 **jess-serrao/jess-serrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
