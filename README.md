@@ -52,13 +52,11 @@ I’m a data scientist focused on turning complex healthcare and operational dat
 
 ---
 
-## ✍️ Writing & Project Notes
-
-I share practical notes on data science, clinical analytics, and building reliable analytical workflows.
+## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- *Coming soon: Building a reproducible data-quality workflow for time-series data*
-- *Coming soon: What clinical-monitoring data can teach us about validation*
+- *[Making the Complex Simple with a Data Analytics Solution for Investigating Real-Time Medical Device Data* (Part 1 of 2)]([url](https://capsuletech.com/blog/making-the-complex-simple-with-a-data-analytics-solution-for-investigating-real-time-medical-device-data-part-1-of-2))
+- *Making the Complex Simple with a Data Analytics Solution for Investigating Real-Time Medical Device Data (Part 2 of 2)[https://capsuletech.com/blog/making-the-complex-simple-with-a-data-analytics-solution-for-investigating-real-time-medical-device-data-part-2-of-2](url)*
 - *Coming soon: From SQL extraction to an interpretable predictive model*
 <!-- BLOG-POST-LIST:END -->
 
